@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#for the historical data of nepse
+Datasrc/
+
 # C extensions
 *.so
 
