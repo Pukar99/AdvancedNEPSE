@@ -20,7 +20,7 @@ Tasks that are slated for completion include:
 ## Resources and References
 Useful resources and references that can aid in the project:
 
-- ![ShareSansar Index History](urlimage.png)
+- ![ShareSansar Index History](images\urlimage.png)
 - For detailed historical data and insights: [ShareSansar Index History Data](https://www.sharesansar.com/index-history-data)
 
 ## Notes
