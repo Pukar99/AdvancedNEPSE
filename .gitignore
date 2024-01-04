@@ -5,6 +5,7 @@ __pycache__/
 
 #for the historical data of nepse
 Datasrc/
+notebook\NepseDataHistorical1997_2024.csv
 
 # C extensions
 *.so
