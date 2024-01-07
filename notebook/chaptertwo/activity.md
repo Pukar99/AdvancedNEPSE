@@ -7,4 +7,10 @@ step1: we can do simple data preprocessing steps; like converting the data into 
 df1 = pd.read_csv('../../datasrc/NepseDataHistorical1997_2024.csv')   //copy and paste
 
 
+
 step2: then we jump into EDA. 
+
+
+
+## problems:
+- the data form 2015 are showing nan
