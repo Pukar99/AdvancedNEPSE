@@ -1,0 +1,10 @@
+step1: we can do simple data preprocessing steps; like converting the data into appropriate format, data column as the index
+
+
+
+## file location : 
+
+df1 = pd.read_csv('../../datasrc/NepseDataHistorical1997_2024.csv')   //copy and paste
+
+
+step2: then we jump into EDA. 
