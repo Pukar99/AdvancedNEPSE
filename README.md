@@ -6,3 +6,4 @@ further we have to add different things like the putting the candelstick like in
 we should try to implement the features taht are extracted with the  montly data and the weekday attributes as well for the better forecasting of that model and 
 we should convert this model for decisiion making model 
 busy due to some taks
+// i have new idea related to it
